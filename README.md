@@ -41,7 +41,8 @@ Please go through the **Requirements.txt file:https://github.com/ankurpython/cry
 
 ### 2. **Returning the data through POST request**
 
-![Screenshot from 2021-10-17 12-27-43](https://user-images.githubusercontent.com/48859058/137621390-3f3abd89-f11b-4033-934e-a027e28b1fd2.png)
+![Screenshot from 2021-10-18 10-49-07](https://user-images.githubusercontent.com/48859058/137682291-f660860a-f4e0-45f7-a100-8a8188c285a4.png)
+
 
 
 ## Thank You
