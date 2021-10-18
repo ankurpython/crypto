@@ -36,4 +36,5 @@ def get_bitcoin_exchange(*args, **kwargs):
 
     if serializers.is_valid():
         serializers.save()
-    return True
+        return serializers
+    return 400
