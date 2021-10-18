@@ -45,7 +45,11 @@ Please go through the **Requirements.txt file:https://github.com/ankurpython/cry
 
 ### Screen Record 
 
-https://user-images.githubusercontent.com/48859058/137686167-a327c204-33da-4653-acc5-d25165811cb3.mp4
+https://user-images.githubusercontent.com/48859058/137687459-b6f56a8b-c042-43f3-b814-c906d32320f1.mov
+
+
+
+
 
 
 
