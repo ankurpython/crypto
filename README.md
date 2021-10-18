@@ -43,6 +43,10 @@ Please go through the **Requirements.txt file:https://github.com/ankurpython/cry
 
 ![Screenshot from 2021-10-18 10-49-07](https://user-images.githubusercontent.com/48859058/137682291-f660860a-f4e0-45f7-a100-8a8188c285a4.png)
 
+### Screen Record 
+
+https://user-images.githubusercontent.com/48859058/137686167-a327c204-33da-4653-acc5-d25165811cb3.mp4
+
 
 
 ## Thank You
