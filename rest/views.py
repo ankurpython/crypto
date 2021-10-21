@@ -18,7 +18,7 @@ class Quotes(viewsets.ModelViewSet):
     search_fields = ['exchange_rate', 'bid_price', 'ask_price', 'last_refreshed']
 
     def create(self, request, *args, **kwargs):
-        serializers = get_bitcoin_exchange()
-        if serializers == 400:
-            return Response(serializers.error_messages, status=HTTP_400_BAD_REQUEST)
-        return Response(serializers.data, status=HTTP_200_OK)
+        data, code = get_bitcoin_exchange()
+        if code:
+            return Response(data, status=HTTP_200_OK)
+        return Response(data, status=HTTP_400_BAD_REQUEST)
